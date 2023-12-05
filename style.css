@@ -144,7 +144,7 @@ section {
 
 footer {
     width: 100%;
-    background-color: rgb(230, 230, 230);
+    background-color: #23232e;
 }
 
 #footer_content {
@@ -158,12 +158,12 @@ footer {
 }
 
 footer p {
-    color: #000;
+    color: #fff;
     text-align: center;
     font-size: 16px;
     font-weight: 400;
     font-style: italic;
-    padding: 2%;
+    padding: 1%;
 }
 
 #footer_social_media {
